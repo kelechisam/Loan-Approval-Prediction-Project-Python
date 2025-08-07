@@ -307,7 +307,7 @@ Analysis Steps
 
 
 
-Key Findings
+#  Key Findings
 
 About 22% of loans were approved (loan_status = 1).
 
